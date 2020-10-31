@@ -2,7 +2,7 @@
 
 ## Methodologies
 
-### Agile
+### Agile:
 
 _Agile Values in the **Agile Manifesto:**_
 

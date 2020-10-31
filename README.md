@@ -2,6 +2,12 @@
 
 ## Methodologies
 
+- Agile
+- Scrum
+- Scrum Ceremonies
+- Epic and User Stories
+- Kanban
+
 ### Agile:
 
 _Agile Values in the **Agile Manifesto:**_

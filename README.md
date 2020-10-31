@@ -1,6 +1,8 @@
-# Agile-Scrum
+# Agile & Scrum
 
-### Methodologies
+## Methodologies
+
+### Agile
 
 _Agile Values in the **Agile Manifesto:**_
 

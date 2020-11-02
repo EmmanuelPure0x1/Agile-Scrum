@@ -120,4 +120,4 @@ _The 4 Main Agile Values in the **Agile Manifesto:**_
 
 ### KanBAn
 
-![kanban](images/kanban.jpg)
+![kanban](images/kanban.JPG)

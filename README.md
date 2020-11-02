@@ -32,7 +32,8 @@ _The 4 Main Agile Values in the **Agile Manifesto:**_
 - The **key difference between Agile and Scrum** is that while Agile is a project management philosophy which utilizes a core set of values or principles, Scrum is a specific Agile methodology that is used to facilitate a project
 
 - **Product Owner:** Owns the Product Backlog. Essentially the Product Owner directs the team to ensure they are working on the right requirements.
-**Scrum Master:** This role does not direct the team like a Project Manager and allocate tasks, instead they shield the team from outside distractions and remove blockers to enable the team to work as quickly as possible.
+
+- **Scrum Master:** This role does not direct the team like a Project Manager and allocate tasks, instead they shield the team from outside distractions and remove blockers to enable the team to work as quickly as possible.
 
 - Other Roles also include:
 	- PM - Project Management
@@ -51,12 +52,68 @@ _The 4 Main Agile Values in the **Agile Manifesto:**_
 
 ![The-3-amigos](images/3amigos.png)
 
-	- The Business Analyst details out each of the Business Requirements with the team.
-	- The members of the Quality Assurance Team discuss the Test Cases already created for these business requirements.
-	- The members of the Development Team discuss the architecture and the low-level design with the team.
+- The **Business Analyst** details out each of the Business Requirements with the team.
+- The members of the **Quality Assurance Team** discuss the Test Cases already created for these business requirements.
+- The members of the **Development Team** discuss the architecture and the low-level design with the team.
 
 ### Scum Ceremonies
 
-- 
-
+- Sprint Planning: 
+	- Discussion on what the sprint will entail (What, How, Who)
  
+- Daily Standup Meeting: 
+	-   Daily scrum organised by scrum master to synchronize team members
+	- Questions asked include:
+		- Whats done day prior?
+		- What needs to be done? 
+		- Any issues?
+
+- Sprint Review Meeting:
+	- Held at end of each sprint, feedback given to product owner and stakeholders.
+	- Backlog revisited.
+
+- Sprint Review Meeting: 
+	- Reflection on Sprint and figure out what can be improved.
+	- Questions asked include:
+		- What went well?
+		- What did not go so well?
+		- What can be worked on and improved?
+
+- Scrum Artifacts: 
+	- Product Backlog:
+		- What is the goal that needs to be achieved.
+	- Sprint Backlog:
+		- Steps defining the goal
+	- Sprint Goal:
+		- Steps definiting the "micro-missions" to achieve over all mission.
+
+### Epic and User Stories
+
+- Stories, also called “user stories,” are short requirements or requests written from the perspective of an end user.
+	- User stories answer the question: Who is the target audience, What value is created, Why are we building this, What needs to be built. 
+	- **They are an informal, general explanation of a software feature written from the perspective of the end user or customer.**
+
+#### Benefits Of Creating User Stories
+
+- Keeps the focus on the user:
+	- Compared to a general to-do list, the stories keep the team focussed on solving problems for real users.
+- Enable collaboration:
+	- End goal defined, team can work together to determine how best to serve the user and meet that goal.
+- Drive creative solutions:
+	- Encourage critical and creative thinking about how best to solve towards an end goal.
+- Create momentum:
+	- Every story checked off, can enjoy a small win, thus driving momentum.
+
+- **Planning Poker**:
+	- Planning Poker is an agile estimating and planning technique that is consensus based. To start a poker planning session, the product owner or customer reads an agile user story or describes a feature to the estimators.
+
+#### INVEST
+
+-  This Helps to remember a widely accepted set of criteria or checklist to assess to quality of a user story. This is:
+
+    I - Independent (of all others)
+    N - Negotiable (no specific contract for features)
+    V - Valuable
+    E - Estimatable (to a good approximation)
+    S - Small (so can fit within an iteration)
+    T - Testable (in theory, even if there is not available test yet)

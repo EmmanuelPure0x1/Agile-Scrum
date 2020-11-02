@@ -111,9 +111,13 @@ _The 4 Main Agile Values in the **Agile Manifesto:**_
 
 -  This Helps to remember a widely accepted set of criteria or checklist to assess to quality of a user story. This is:
 
-    I - Independent (of all others)
-    N - Negotiable (no specific contract for features)
-    V - Valuable
-    E - Estimatable (to a good approximation)
-    S - Small (so can fit within an iteration)
-    T - Testable (in theory, even if there is not available test yet)
+	- I - Independent (of all others)
+	- N - Negotiable (no specific contract for features)
+	- V - Valuable
+	- E - Estimatable (to a good approximation)
+	- S - Small (so can fit within an iteration)
+	- T - Testable (in theory, even if there is not available test yet)
+
+### KanBAn
+
+![kanban](images/kanban.jpg)
